@@ -1,0 +1,4 @@
+Unstaged file - never added to git index. git add {file} to add
+Staged - in th e git index 
+
+
