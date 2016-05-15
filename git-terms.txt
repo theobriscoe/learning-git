@@ -1,4 +1,24 @@
-Unstaged file - never added to git index. git add {file} to add
-Staged - in th e git index 
 
-
+archive
+branch
+detached head
+fast forward
+force push
+git checkout - Change current branch to different branch 
+head
+index
+master
+new file
+origin
+patch
+remote repo - not your local repo
+remote tracking branch 
+reverse hunk
+staged file - in th e git index 
+tag
+unstaged file - never added to git index. git add {file} to add
+untracked
+working treei
+local repo - repo on local machine
+tracking branch - tracking branch is the default push or fetch location for a branch.
+git clone - complete copy if a repo  
